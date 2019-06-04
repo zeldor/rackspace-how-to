@@ -200,6 +200,8 @@ permalink: /
 					</div>
 				</div>
 			</div>
+		</div>
+	</div>
 
 
   <div class="container">
@@ -212,8 +214,6 @@ permalink: /
 			    </div>
 		    </div>
 	    </div>
-
-	<hr/>
 
 	  </div>
 	</div>
