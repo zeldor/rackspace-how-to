@@ -11,13 +11,9 @@ permalink: /
 			<div class="filter-product-type">
 				<ul>
 					<li><a id="cloud-ctrl" class="inactive">Cloud Hosting</a></li>
-					<li><a id="office-ctrl" class="inactive">Cloud Office</a></li>
-					<li>
-						<a href="/how-to/dedicated-hosting">Dedicated Hosting</a>
-                    </li>
-					<li>
-					  <a href="/how-to/account-management">Account Management</a>
-						        </li>
+					<li><a id="office-ctrl" class="inactive">Email Hosting</a></li>
+					<li><a id="cloud-ctrl" class="inactive">Managed Hosting</a></li>
+					<li><a href="/how-to/account-management">Account Management</a></li>
 				</ul>
 			</div>
 		</div>
