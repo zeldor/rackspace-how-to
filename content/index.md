@@ -10,9 +10,10 @@ permalink: /
 
 			<div class="filter-product-type">
 				<ul>
-					<li><a id="cloud-ctrl" class="inactive">Cloud Hosting</a></li>
+					<li><a id="cloud-ctrl" class="inactive">Public &amp; Private Cloud</a></li>
 					<li><a id="office-ctrl" class="inactive">Email Hosting</a></li>
 					<li><a id="cloud-ctrl" class="inactive">Managed Hosting</a></li>
+					<li><a id="cloud-ctrl" class="inactive">Security &amp; Compliance</a></li>
 					<li><a href="/how-to/account-management">Account Management</a></li>
 				</ul>
 			</div>
@@ -20,27 +21,6 @@ permalink: /
 	</div>
 	<div class="container">
 		<div class="content home product-type product-type-cloud" id="cloud-display">
-		   <div class="row">
-			   <h3>Rackspace Managed Security</h3>
-			   <div class="twelve columns">
-				   <div class="primary twelve columns icon pdr">
-					   <h4><a href="/how-to/rackspace-pdr/"><span>Rackspace</span> Proactive Detection & Response</a></h4>
-				   </div>
-			   </div>
-		   </div>
-			<hr/>
-
-			<div class="row">
-				<h3>Managed Operations</h3>
-				<div class="twelve columns">
-					<div class="primary twelve columns icon managed-operations">
-						<h4><a href="/how-to/managed-operations"><span>Managed</span> Operations</a></h4>
-					</div>
-				</div>
-			</div>
-
-			<hr/>
-
 			<div class="row">
 				<h3>Compute</h3>
 				<div class="twelve columns">
@@ -198,6 +178,47 @@ permalink: /
 			</div>
 		</div>
 	</div>
+
+	<div class="container">
+		<div class="content home product-type product-type-email inactive" id="office-display">
+			<div class="row">
+				<div class="twelve columns">
+					<div class="primary three columns icon managed-operations">
+						<h4><a href="https://manage.rackspace.com/aws/docs/product-guide/"><span>Fanatical Support for</span> Amazon Web Services</a></h4>
+					</div>
+					<div class="three columns icon managed-operations">
+						<h4><a href="https://manage.rackspace.com/gcp/docs/product-guide/"><span>Managed Services for</span> Google Cloud Platform</a></h4>
+					</div>
+				</div>
+				<div class="twelve columns">
+					<div class="three columns primary icon managed-operations">
+						<h4><a href="/how-to/managed-operations/"><span>Managed</span> Operations</a></h4>
+					</div>
+					<div class="three columns icon managed-operations">
+						<h4><a href="/how-to/dedicated-hosting/"><span>Rackspace</span> Dedicated Hosting</a>
+						</h4>
+					</div>
+				</div>
+			</div>
+
+
+  <div class="container">
+	  <div class="content home product-type product-type-cloud" id="cloud-display">
+      <div class="row">
+		    <h3>Rackspace Managed Security</h3>
+		    <div class="twelve columns">
+			    <div class="primary twelve columns icon pdr">
+				    <h4><a href="/how-to/rackspace-pdr/"><span>Rackspace</span> Proactive Detection & Response</a></h4>
+			    </div>
+		    </div>
+	    </div>
+
+	<hr/>
+
+	  </div>
+	</div>
+
+
 	<div class="river">
 		<div class="container">
 			<div class="row content home contact">
