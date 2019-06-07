@@ -12,8 +12,8 @@ permalink: /
 				<ul>
 					<li><a id="cloud-ctrl" class="inactive">Public &amp; Private Cloud</a></li>
 					<li><a id="office-ctrl" class="inactive">Email Hosting</a></li>
-					<li><a id="cloud-ctrl" class="inactive">Managed Hosting</a></li>
-					<li><a id="cloud-ctrl" class="inactive">Security &amp; Compliance</a></li>
+					<li><a id="hosting-ctrl" class="inactive">Managed Hosting</a></li>
+					<li><a id="security-ctrl" class="inactive">Security &amp; Compliance</a></li>
 					<li><a href="/how-to/account-management">Account Management</a></li>
 				</ul>
 			</div>
@@ -180,7 +180,7 @@ permalink: /
 	</div>
 
 	<div class="container">
-		<div class="content home product-type product-type-email inactive" id="office-display">
+		<div class="content home product-type product-type-managed inactive" id="hosting-display">
 			<div class="row">
 				<div class="twelve columns">
 					<div class="primary three columns icon managed-operations">
@@ -203,9 +203,8 @@ permalink: /
 		</div>
 	</div>
 
-
   <div class="container">
-	  <div class="content home product-type product-type-cloud" id="cloud-display">
+	  <div class="content home product-type product-type-security" id="security-display">
       <div class="row">
 		    <h3>Rackspace Managed Security</h3>
 		    <div class="twelve columns">
