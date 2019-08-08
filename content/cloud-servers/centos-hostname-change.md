@@ -53,11 +53,11 @@ server hostname in CentOS&reg;.
     not actively update all of the programs that are running under the
     old hostname. The following code provides an example:
 
-         [root@defiant ~]# hostnamectl set-hostname hostname.domain.com
+         [root@defiant ~]# hostnamectl set-hostname hostname
 
          [root@defiant ~]# hostname
 
-         hostname.domain.com
+         hostname
 
          [root@defiant ~]#
 
